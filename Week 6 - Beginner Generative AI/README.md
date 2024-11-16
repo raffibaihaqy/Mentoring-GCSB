@@ -17,7 +17,7 @@ This learning path provides an overview of generative AI concepts, from the fund
 
 ## 04 - [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/paths/118/course_templates/976)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLwk5HW8luxky6dT7MNsW6iirrnIqE0TCG)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLwk5HW8luxky6dT7MNsW6iirrnIqE0TCG)
 
 ## 05 - [Responsible AI: Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/paths/118/course_templates/388)
 

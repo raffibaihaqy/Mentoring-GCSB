@@ -5,24 +5,24 @@ A Cloud Digital Leader can articulate the capabilities of core cloud products an
 
 ## 01 - [Digital Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/266)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQzhqfIi0FKelBPyjmOjf7xo)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQzhqfIi0FKelBPyjmOjf7xo)
 
 ## 02 - [Exploring Data Transformation with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/267)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQz5JchnVXX8MRsfLL69fehY)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQz5JchnVXX8MRsfLL69fehY)
 
 ## 03 - [Innovating with Google Cloud Artificial Intelligence](https://www.cloudskillsboost.google/paths/9/course_templates/946)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQzYe3vXatEHeIRTU45By1FK)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQzYe3vXatEHeIRTU45By1FK)
 
 ## 04 - [Modernize Infrastructure and Applications with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/265)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQx6z84MYDfVlffQ_W9gHxU5)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQx6z84MYDfVlffQ_W9gHxU5)
 
 ## 05 - [Trust and Security with Google Cloud](https://www.cloudskillsboost.google/paths/9/course_templates/945)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQxRLJQQu3XlX5sBG-tgIra2)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQxRLJQQu3XlX5sBG-tgIra2)
 
 ## 06 - [Scaling with Google Cloud Operations](https://www.cloudskillsboost.google/paths/9/course_templates/271)
 
-- Solution Playlist - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQyjg0z914q8cZt4ffEC-3Xn)
+- Solution - [Click Here](https://www.youtube.com/playlist?list=PLVyfLG0N2WQyjg0z914q8cZt4ffEC-3Xn)
